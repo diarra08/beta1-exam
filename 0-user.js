@@ -20,3 +20,6 @@
  */
 
 // Your code :
+user.user = name => 'diarra'
+user.user = email => 'diarrakalifala2017@gamil.com'
+user.user = age => '22'
